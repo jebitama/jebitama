@@ -1,14 +1,14 @@
 <div align="center">
 
 ```
-                              ╔══════════════════════════════════════════════════════════════════╗
-                              ║                                                                  ║
-                              ║     J E B I   T A M A M I                                        ║
-                              ║     ─────────────────────────────────                            ║
-                              ║     Senior Full-Stack Engineer  ·  AI Architect                  ║
-                              ║     Technical Leader  ·  Bali, Indonesia 🌊                      ║
-                              ║                                                                  ║
-                              ╚══════════════════════════════════════════════════════════════════╝
+                            ╔══════════════════════════════════════════════════════════════════╗
+                            ║                                                                  ║
+                            ║     J E B I   T A M A M I                                        ║
+                            ║     ─────────────────────────────────                            ║
+                            ║     Senior Full-Stack Engineer  ·  AI Architect                  ║
+                            ║     Technical Leader  ·  Bali, Indonesia 🌊                      ║
+                            ║                                                                  ║
+                            ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://jebitamami.codes">
