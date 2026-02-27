@@ -1,97 +1,183 @@
 <div align="center">
 
-# ⚡ JEBI TAMAMI
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     J E B I   H A Y I   T A M A M I                             ║
+║     ─────────────────────────────────                            ║
+║     Senior Full-Stack Engineer  ·  AI Architect                  ║
+║     Technical Leader  ·  Bali, Indonesia 🌊                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**Senior Full-Stack Engineer | AI Architect | Technical Leader**
+<a href="https://jebitamami.codes">
+  <img src="https://img.shields.io/badge/◈_jebitamami.codes-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/jebi-tamami/">
+  <img src="https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jebitamami@gmail.com">
+  <img src="https://img.shields.io/badge/◈_jebitamami@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jebitamami.codes-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jebitamami.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jebi-tamami/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jebitamami@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bali,_Indonesia-00A86B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+<br/>
 
-*Bridging the gap between high-level business strategy and robust, scalable engineering.*
-
-</div>
-
----
-
-## 🚀 Executive Summary
-
-> [cite_start]I am a Full-stack Software Engineer with **6+ years of experience** building and scaling user-focused web and mobile applications[cite: 3]. [cite_start]Operating at the intersection of product architecture and executive leadership, I specialize in **AI-first product development and LLM/AI Agent integration**[cite: 3]. [cite_start]Having served as a CTO and Lead Engineer, I drive best practices across system design, CI/CD, and DevOps to ensure high product quality and production-ready solutions[cite: 4].
-
-### 🎯 Current Focus
-- [cite_start]Architecting **Agentic workflows** and **LLM automation suites**[cite: 22].
-- Leading high-performance engineering teams in **SGT** timezones.
-- [cite_start]Building robust observability and release readiness into complex infrastructures[cite: 3].
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-| Domain | Core Technologies |
-| :--- | :--- |
-| **Frontend Ecosystem** | [cite_start]`React.js` `Next.js` `TypeScript` `React Native` `Flutter` `Redux` `Zustand` `Tanstack` [cite: 36] |
-| **Backend & APIs** | [cite_start]`Node.js` `Nest.js` `Python` `Go` `Java` `PHP` `Laravel` [cite: 10, 16] |
-| **AI & Automation** | [cite_start]`LLM Integration` `AI Agent Design` `Vector/RAG Patterns` [cite: 3] |
-| **Cloud & DevOps** | `AWS` `GCP` `Docker` `GitHub Actions` `Prometheus` `Grafana` |
-| **Databases & Cache** | `PostgreSQL` `MongoDB` `Redis` `Firebase` |
-| **CSS Framework** | `Tailwind` `Bootstap` `ANTD` `Styled Component` |
-
+<img src="https://komarev.com/ghpvc/?username=jebitama&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 </div>
 
 ---
 
-## 🏆 Signature Architecture
+<img align="right" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jebitama&theme=tokyonight" />
 
-### 🤖 LLM Automation Bot Suite
-[cite_start]Built an LLM-powered multi-channel automation system for a multi-merchant SaaS platform[cite: 22].
-- [cite_start]**Capabilities:** Integrated WhatsApp and Telegram for automated, conversational interactions[cite: 22].
-- [cite_start]**Infrastructure:** Real-time stock synchronization and scalable order management via API and spreadsheet integrations[cite: 22].
+### `> whoami`
 
-### 🎮 Game-Based Learning Platform (Flip)
-[cite_start]Led the enhancement of an educational platform focusing on high performance and user experience[cite: 6].
-- [cite_start]**Stack:** `React.js`, `Next.js`, `Node.js`, `Python`, and `Jotai`[cite: 6].
-- [cite_start]**Impact:** Designed CI/CD pipelines to automate deployments, drastically reducing downtime and improving release reliability[cite: 8].
+I'm a **Full-Stack Software Engineer** with **6+ years** crafting user-focused web and mobile products — from founding startups to leading engineering orgs as CTO.
 
----
+I specialize in **AI-first product development**: designing LLM pipelines, agentic workflows, and intelligent automation systems that ship to production.
 
-## 💼 Leadership & Engineering Trajectory
+Currently building impactful products at **Flip (PlaybyFlip)** while exploring the frontier of **AI-native architecture**.
 
-<details>
-<summary><b>🛠️ Flip - PlaybyFlip | Senior Full-Stack Engineer</b> <i>(Apr 2023 - Present)</i></summary>
-
-- [cite_start]Diagnosed and resolved critical frontend and backend issues to maintain platform stability[cite: 7].
-- [cite_start]Maintained and monitored cloud infrastructure, ensuring high availability and security[cite: 9].
-</details>
-
-<details>
-<summary><b>📈 Baliola NFT Marketplace | Chief Technology Officer</b> <i>(Jun 2021 - Jan 2023)</i></summary>
-
-- [cite_start]Built and led the engineering team, providing technical direction and mentorship[cite: 12].
-- [cite_start]Owned the entire technology strategy, product roadmap, and system architecture[cite: 13].
-- [cite_start]Researched and evaluated blockchain solutions, server infrastructure, and CI/CD integrations[cite: 14].
-</details>
-
-<details>
-<summary><b>⚡ Nouvacore | Full-stack Engineer & Project Manager</b> <i>(Sep 2020 - Jul 2022)</i></summary>
-
-- [cite_start]Led multiple client software projects from planning through delivery[cite: 15].
-- [cite_start]Managed timelines, task distribution, and technical risks across multiple stacks[cite: 15].
-</details>
+```typescript
+const jebi = {
+  location:    "Bali, Indonesia 🌴",
+  focus:       ["AI/LLM Systems", "Full-Stack", "Platform Eng"],
+  currently:   "Senior Full-Stack @ Flip (PlaybyFlip)",
+  openTo:      ["Remote", "Contract", "Fractional CTO"],
+  hobbies:     ["surfing 🏄", "coffee ☕", "open source"],
+};
+```
 
 ---
 
-## 📊 GitHub Analytics
+### `> expertise --list`
+
+**AI & Automation**
+> LLM Integration · AI Agent Design · Agentic Workflows · RAG Patterns · Vector Stores · Multi-Channel Automation (WhatsApp / Telegram)
+
+**Frontend**
+> React.js · Next.js · TypeScript · React Native · Flutter · Zustand · Jotai · TanStack · Tailwind CSS · Styled Components · Ant Design · MUI
+
+**Backend & APIs**
+> Node.js · Nest.js · Python · Go · Java · PHP · Laravel · Ruby · REST · WebSocket
+
+**Cloud & DevOps**
+> AWS · GCP · Firebase · Docker · GitHub Actions · CI/CD · Prometheus · Grafana · AWS CloudWatch · Digital Ocean
+
+**Data & Cache**
+> PostgreSQL · MongoDB · Redis · BullMQ · MySQL · Firebase Realtime DB
+
+**Blockchain**
+> Web3.js · Solidity · NFT Platform Architecture
+
+---
+
+### `> career --timeline`
+
+```
+2023 ──────────────────────────────────────────────────── present
+      ◆ Flip (PlaybyFlip) · Senior Full-Stack Engineer
+        → Game-based learning platform · React.js · Next.js · Node.js · Python
+        → CI/CD pipelines · Cloud infra monitoring · Platform reliability
+
+      ◆ Ituloh · Full-Stack Engineer                     [Mar–Oct 2023]
+        → Scalable web & mobile apps · React Native · NestJS · Go
+
+2021 ──────────────────────────────────────────────────── 2023
+      ◆ Baliola NFT Marketplace · CTO & Full-Stack Engineer
+        → Built & led engineering team · Owned full tech strategy & roadmap
+        → Blockchain R&D · Infrastructure design · Product architecture
+
+2020 ──────────────────────────────────────────────────── 2022
+      ◆ Nouvacore · Full-Stack Engineer & Project Manager
+        → Multi-stack client delivery · DevOps & deployment ownership
+
+      ◆ Popsgo (Instant Delivery) · Co-Founder           [Jun 2020–Jan 2022]
+        → Built full delivery platform · Java · Node.js · React · React Native
+
+2019 ──────────────────────────────────────────────────── 2020
+      ◆ PT. Bali Pawiwahan (Coco Group) · Project Manager
+        → Business systems · Stakeholder management · Process automation
+```
+
+---
+
+### `> projects --featured`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🤖 LLM Automation Bot Suite</h4>
+      <p>Multi-channel AI automation for a multi-merchant SaaS platform. WhatsApp + Telegram bots with real-time stock sync, order management, and spreadsheet/API integrations.</p>
+      <code>LLM · Node.js · WhatsApp API · Telegram API</code>
+    </td>
+    <td width="50%">
+      <h4>🌍 Explorind — Travel Ticket Platform</h4>
+      <p>Full-stack travel marketplace: Next.js web, Flutter mobile, Laravel & Go APIs, payment gateway, and AWS DevOps pipeline.</p>
+      <code>Next.js · Flutter · Laravel · Go · AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🏃 Run Tracker</h4>
+      <p>Cross-platform running app with live GPS tracking, event registration & payments, map integration, and OAuth via Strava & Google Fit.</p>
+      <code>React Native · Strava API · Maps · Payments</code>
+    </td>
+    <td width="50%">
+      <h4>📡 Live Attendance — AWS Face Recognition</h4>
+      <p>Managed project & integrated AWS Rekognition for a Flutter mobile app and Next.js TS admin dashboard.</p>
+      <code>Flutter · Next.js · AWS Rekognition</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎗️ Angel's Project — NFT Charity Platform</h4>
+      <p>Web3 frontend for an NFT-powered charity platform. Wallet integration, minting flows, and on-chain interaction.</p>
+      <code>React.js · Tailwind · Web3.js · Solidity</code>
+    </td>
+    <td width="50%">
+      <h4>🛒 B2BHub — B2B Marketplace</h4>
+      <p>Full-featured Flutter B2B marketplace with real-time in-app chat, catalog management, and order workflows.</p>
+      <code>Flutter · Firebase · WebSocket</code>
+    </td>
+  </tr>
+</table>
+
+> 📂 Full project portfolio → [jebitamami.codes](https://jebitamami.codes)
+
+---
+
+### `> github --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jebitama&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jebitama&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jebitama&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=jebitama&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
+
+### `> education`
+
+**Bachelor of Computer Science — Information Systems**  
+University of Brawijaya, Malang, Indonesia · *2014 – 2019*
+
+---
+
 <div align="center">
-  <i>"Optimizing for trust, correctness, and high-velocity execution."</i>
+
+```
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║   Open to remote opportunities worldwide.    ║
+║   Let's build something extraordinary.       ║
+║                                               ║
+║   jebitamami@gmail.com                       ║
+║   linkedin.com/in/jebi-tamami/               ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
+```
+
+*"Optimizing for trust, correctness, and high-velocity execution."*
+
 </div>
