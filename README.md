@@ -57,7 +57,7 @@ const jebi = {
 > LLM Integration · AI Agent Design · Agentic Workflows · RAG Patterns · Vector Stores · Multi-Channel Automation (WhatsApp / Telegram)
 
 **Frontend**
-> React.js · Next.js · TypeScript · React Native · Flutter · Zustand · Jotai · TanStack · Tailwind CSS · Styled Components · Ant Design · MUI
+> React.js · Next.js · TypeScript · React Native · Flutter · Redux · Zustand · Jotai · TanStack · Tailwind CSS · Styled Components · Ant Design · MUI
 
 **Backend & APIs**
 > Node.js · Nest.js · Python · Go · Java · PHP · Laravel · Ruby · REST · WebSocket
